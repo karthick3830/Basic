@@ -1,1 +1,1 @@
-https://github.com/karthick3830/Basic/
+https://karthick3830.github.io/Basic/
